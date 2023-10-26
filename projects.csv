@@ -1,0 +1,17 @@
+activemq,https://github.com/apache/activemq,refs/tags/activemq-5.18.1
+calcite,https://github.com/apache/calcite,refs/tags/calcite-1.34.0
+camel,https://github.com/apache/camel,refs/tags/camel-3.20.4
+dolphinscheduler,https://github.com/apache/dolphinscheduler,refs/tags/3.1.5
+drill,https://github.com/apache/drill,refs/tags/drill-1.21.1
+dubbo,https://github.com/apache/dubbo,refs/tags/dubbo-3.1.10
+hudi,https://github.com/apache/hudi,refs/tags/release-0.12.3
+ignite,https://github.com/apache/ignite,refs/tags/2.15.0
+iotdb,https://github.com/apache/iotdb,refs/tags/v1.1.0
+kafka,https://github.com/apache/kafka,refs/tags/3.4.0
+linkis,https://github.com/apache/linkis,refs/tags/1.3.2
+logging-log4j2,https://github.com/apache/logging-log4j2,refs/tags/rel/2.20.0
+nifi,https://github.com/apache/nifi,refs/tags/rel/nifi-1.21.0
+pinot,https://github.com/apache/pinot,refs/tags/release-0.12.1
+pulsar,https://github.com/apache/pulsar,refs/tags/v2.10.4
+shardingsphere,https://github.com/apache/shardingsphere,refs/tags/5.3.2
+shenyu,https://github.com/apache/shenyu,refs/tags/v2.5.1
